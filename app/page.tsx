@@ -558,7 +558,6 @@ export default function HomePage() {
       default:
         return <Trophy className="h-5 w-5" />
     }
-  }
 
   return (
     <div className="min-h-screen bg-background">
